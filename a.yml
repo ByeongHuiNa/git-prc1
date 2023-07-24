@@ -1,4 +1,10 @@
 test: Test
+<<<<<<< HEAD
 test: qqqq
 test: vvvv
 test: cxxczx
+=======
+test: c.ds1
+test: c.ds2
+test: c.ds3
+>>>>>>> test2

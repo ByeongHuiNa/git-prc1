@@ -1,1 +1,3 @@
 test: Test
+test: c.yml1
+test: c.yml2
